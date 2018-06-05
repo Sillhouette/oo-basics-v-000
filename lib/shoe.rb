@@ -4,7 +4,7 @@ class Shoe
 
 
   def initialize
-    
+
   end
 
   def cobble
